@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.7.1](https://github.com/garethgeorge/backrest/compare/v1.7.0...v1.7.1) (2025-01-12)
+
+
+### Bug Fixes
+
+* local network access on macOS 15 Sequoia ([#630](https://github.com/garethgeorge/backrest/issues/630)) ([0dd360b](https://github.com/garethgeorge/backrest/commit/0dd360b4973b9f60ba706f869a1a6eb883713afd))
+* test repo configuration button doesn't work ([07a1561](https://github.com/garethgeorge/backrest/commit/07a1561df7aed7265cdfc9561d7bd6a2e10deac2))
+
 ## [1.7.0](https://github.com/garethgeorge/backrest/compare/v1.6.2...v1.7.0) (2025-01-09)
 
 
